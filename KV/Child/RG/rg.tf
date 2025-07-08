@@ -12,3 +12,5 @@ resource "azurerm_resource_group" "rg" {
 
 #TEST 4 push
 
+#new test-12:39
+
