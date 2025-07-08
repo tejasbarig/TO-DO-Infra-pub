@@ -4,3 +4,4 @@ resource "azurerm_resource_group" "rg" {
 }
 
 # Test1
+#new test-12:27
