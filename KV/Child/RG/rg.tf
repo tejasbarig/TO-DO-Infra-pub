@@ -4,3 +4,5 @@ resource "azurerm_resource_group" "rg" {
 }
 
 # Test1
+
+# Test2
