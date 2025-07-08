@@ -3,11 +3,7 @@ resource "azurerm_resource_group" "rg" {
     location = var.location
 }
 
-#TEST 1 push
-#TEST 1 push
-#TEST 1 push
+#TEST 3 push
+#TEST 3 push
+#TEST 3 push
 
-
-#TEST 2 push
-#TEST 2 push
-#TEST 2 push
